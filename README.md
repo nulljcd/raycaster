@@ -1,5 +1,5 @@
 # raycaster
-A simple low-level raycaster engine made like the originals. It uses SDL3 for input and displaying the screen, and SDL3_image for loading images.
+A simple low-level raycaster engine made like the originals. It uses SDL3 for input and displaying the screen, and it uses SDL3_image for loading images.
 ### How to play (Linux and MacOS)
 build
 ```
