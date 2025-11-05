@@ -1,7 +1,7 @@
 # raycaster
 A simple low-level raycaster engine made like the originals. It uses SDL3 for input and displaying the screen, and it uses SDL3_image for loading images.
 ### How to play (Linux and MacOS)
-build
+build (with homebrew)
 ```
 clang++ -std=c++17 -o bin/main src/main.cpp -I/opt/homebrew/Cellar/sdl3/3.2.24/include -L/opt/homebrew/Cellar/sdl3/3.2.24/lib -I/opt/homebrew/Cellar/sdl3_image/3.2.4/include -L/opt/homebrew/Cellar/sdl3_image/3.2.4/lib -lSDL3 -lSDL3_image
 ```
